@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Muhammad Arif Furqon
-- At this time, I'm a Laravel Backend Developer, but its okay to coding front end.
-- I’m currently learning Node.js, Golang and Flutter.
+- Golang Backend Developer
 - 📫 Contact me on email furqonzt99@gmail.com
